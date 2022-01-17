@@ -6,7 +6,7 @@ namespace ödev1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hamza");
+            Console.WriteLine("Hamza1");
         }
     }
 }
